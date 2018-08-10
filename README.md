@@ -2,6 +2,10 @@
 
 AWS exercises, snippets, howtos and developments.
 
+## cloud9
+## beans
+## lambda functions
+
 ## CI pipline
 * Aws codecommi: integrated with IAM
 * Aws codebuild
