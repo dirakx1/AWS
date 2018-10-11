@@ -7,6 +7,6 @@ AWS exercises, snippets, howtos and developments.
 ## lambda functions
 
 ## CI pipline
-* Aws codecommi: integrated with IAM
+* Aws codecommit: integrated with IAM
 * Aws codebuild
 * Aws code pipeline. 
