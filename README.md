@@ -10,3 +10,6 @@ AWS exercises, snippets, howtos and developments.
 * Aws codecommit: integrated with IAM
 * Aws codebuild
 * Aws code pipeline. 
+
+## python s3 connection
+* https://realpython.com/python-boto3-aws-s3/
