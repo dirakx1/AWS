@@ -18,6 +18,19 @@ AWS exercises, snippets, howtos and developments.
 * Timestream: Fully managed time series database
 * Database Migration ServiceMigrate databases with minimal downtime
 
+## Blockchain
+
+* Managed Blockchain Create and manage scalable blockchain networks
+* Quantum Ledger Database (QLDB)Fully managed ledger database
+
+## Cost management
+
+* AWS Cost ExplorerAnalyze your AWS cost and usage
+* AWS BudgetsSet custom cost and usage budgets
+* AWS Cost and Usage ReportAccess comprehensive cost and usage information
+* Reserved Instance ReportingDive deeper into your reserved instances (RIs)
+* Savings PlansSave up to 72% on compute usage with flexible pricing
+
 
 ## cloud9
 ## beans
