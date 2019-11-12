@@ -33,19 +33,19 @@ AWS exercises, snippets, howtos and developments.
 
 ## IOT 
 
-*  Amazon WorkSpacesVirtual desktops in the cloud
+* Amazon WorkSpaces Virtual desktops in the cloud
 * Amazon AppStream 2.0Stream desktop applications securely to a browser
-* Amazon WorkLinkEnable mobile access to internal websites
-*  Amazon GameLiftSimple, fast, cost-effective dedicated game server hosting
+* Amazon WorkLink Enable mobile access to internal websites
+* Amazon GameLift Simple, fast, cost-effective dedicated game server hosting
 * Amazon LumberyardA free cross-platform 3D game engine, with Full Source, integrated with AWS and Twitch
-* AWS IoT CoreConnect devices to the cloud
-* Amazon FreeRTOSIoT operating system for microcontrollers
+* AWS IoT Core Connect devices to the cloud
+* Amazon FreeRTOS IoT operating system for microcontrollers
 * AWS GreengrassLocal compute, messaging, and sync for devices
 * AWS IoT 1-ClickOne click creation of an AWS Lambda trigger
-* AWS IoT AnalyticsAnalytics for IoT devices
-* AWS IoT ButtonCloud programmable dash button
-* AWS IoT Device DefenderSecurity management for IoT devices
-* AWS IoT Device ManagementOnboard, organize, and remotely manage IoT devices
+* AWS IoT Analytics Analytics for IoT devices
+* AWS IoT Button Cloud programmable dash button
+* AWS IoT Device Defender Security management for IoT devices
+* AWS IoT Device Management Onboard, organize, and remotely manage IoT devices
 * AWS IoT EventsIoT event detection and response
 * AWS IoT SiteWiseIoT data collector and interpreter
 * AWS IoT Things GraphEasily connect devices and web services
