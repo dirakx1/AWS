@@ -51,6 +51,22 @@ AWS exercises, snippets, howtos and developments.
 * AWS IoT Things GraphEasily connect devices and web services
 * AWS Partner Device CatalogCurated catalog of AWS-compatible IoT hardware
 
+## Compute.
+
+* Amazon EC2 Virtual servers in the cloud
+* Amazon EC2 Auto Scaling Scale compute capacity to meet demand
+* Amazon Elastic Container Registry Store and retrieve docker images
+* Amazon Elastic Container Service Run and manage docker containers
+* Amazon Elastic Kubernetes ServiceRun managed Kubernetes on AWS
+* Amazon LightsailLaunch and manage virtual private servers
+* AWS BatchRun batch jobs at any scale
+* AWS Elastic Beanstalk Run and manage web apps
+* AWS Fargate Run containers without managing servers or clusters
+* AWS Lambda Run code without thinking about servers
+* AWS OutpostsRun AWS infrastructure on-premises
+* AWS Serverless Application RepositoryDiscover, deploy, and publish serverless applications
+* VMware Cloud on AWSBuild a hybrid cloud without custom hardware
+
 
 ## CI pipeline
 * Aws codecommit: integrated with IAM
