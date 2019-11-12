@@ -2,7 +2,7 @@
 
 AWS exercises, snippets, howtos and developments.
 
-# Aws resources.
+# Aws resources:
 
 ## Database
 
