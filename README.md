@@ -32,10 +32,6 @@ AWS exercises, snippets, howtos and developments.
 * Savings PlansSave up to 72% on compute usage with flexible pricing
 
 
-## cloud9
-## beans
-## lambda functions
-
 ## CI pipeline
 * Aws codecommit: integrated with IAM
 * Aws codebuild
