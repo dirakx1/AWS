@@ -78,9 +78,9 @@ to_port   = 22
 protocol  = "tcp"
 
 cidr_blocks = [
-"192.168.0.0/16",
-]
-}
+                "192.168.0.0/16",
+              ]
+        }
 }
 
 resource "aws_security_group" "all_worker_mgmt" {
@@ -93,11 +93,11 @@ to_port   = 22
 protocol  = "tcp"
 
 cidr_blocks = [
-"10.0.0.0/8",
-"172.16.0.0/12",
-"192.168.0.0/16",
-]
-}
+  "10.0.0.0/8",
+  "172.16.0.0/12",
+  "192.168.0.0/16",
+              ]
+     }
 }
 
 module "vpc" {
@@ -129,17 +129,19 @@ private_subnet_tags = {
 }
 
 module "eks" {
-source       = "terraform-aws-eks"
-cluster_name = local.cluster_name
-subnets      = module.vpc.private_subnets
+ source       = "terraform-aws-eks"
+ cluster_name = local.cluster_name
+ subnets      = module.vpc.private_subnets
 
-tags = {
-Environment = "jenkins"
-GithubRepo  = "terraform-aws-eks"
-GithubOrg   = "terraform-aws-modules"
+ tags = {
+  Environment = "jenkins"
+  GithubRepo  = "terraform-aws-eks"
+  GithubOrg   = "terraform-aws-modules"
 }
 
 vpc_id = module.vpc.vpc_id
+
+# Change here if you want more capacitty on workers.
 
 worker_groups = [
 {
@@ -159,7 +161,7 @@ worker_groups = [
 ]
 
 worker_additional_security_group_ids = [aws_security_group.all_worker_mgmt.id]
-map_roles                            = var.map_roles
-map_users                            = var.map_users
-map_accounts                         = var.map_accounts
+ map_roles                            = var.map_roles
+ map_users                            = var.map_users
+ map_accounts                         = var.map_accounts
 }
