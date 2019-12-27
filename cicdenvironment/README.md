@@ -17,7 +17,7 @@
 * if agents need some extra configuration this configuration
 its pulled form a repo and installed via charts. (see [values.yaml](values.yaml))
 * After Jenkins is provided users can make code pipelines 
-(see [JenkinfileCI](JenkinfileCI)).
+(see [JenkinsfileCI](JenkinsfileCI)).
 
 
 
