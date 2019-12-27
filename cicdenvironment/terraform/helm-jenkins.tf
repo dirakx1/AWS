@@ -1,4 +1,5 @@
-## Execute jenkins install on EKS via helm.
+## Execute jenkins install on EKS via helm
+## Change Values.yaml and plugins for agent provisioning. 
 
 provisioner "remote-exec" {
   inline = [
