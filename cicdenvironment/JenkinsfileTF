@@ -1,0 +1,35 @@
+// Devops CI pipeline for terraformed Jenkins on AWS
+echo("INIT.............")
+echo ("USING our own DOCKERFILE........")
+pipeline {
+
+
+   agent { dockerfile true }
+
+   stages {
+
+       stage('1...Terraform Init') {
+
+           steps {
+               sh 'terraform init'
+           }
+       }
+
+       stage('2...Terraform Plan') {
+
+           steps {
+                      sh 'terraform plan'
+                }
+              }
+       stage('3...Applying Infra changes') {
+           steps {
+               sh 'terraform apply' 
+           }
+       }
+       stage('4...Destroy infra if needed') {
+           steps {
+               sh 'terraform destroy'
+           }
+       }
+   }
+}
