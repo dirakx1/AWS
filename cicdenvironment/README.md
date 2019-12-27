@@ -1,5 +1,7 @@
 # Scalable CI/CD Jenkins environment on AWS.
 
+![](JenkinsDistributed.png)
+
 Main parts:
 
 * Architechture
