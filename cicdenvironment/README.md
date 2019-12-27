@@ -12,12 +12,22 @@
 
 ## Proposed solution 
 
-* Deploy an EKS via terraform recipes. (see [main.tf](terraform/main.tf))
+* Deploy an EKS cluster via terraform recipes. (see [main.tf](terraform/main.tf))
 * Install Jenkins on the EKS just created with Helm.(see [helm-jenkins.tf](terraform/helm-jenkins.tf))
-* if agents need some extra configuration this configuration
+* If agents need some extra configuration this configuration
 its pulled form a repo and installed via charts. (see [values.yaml](values.yaml))
 * After Jenkins is provided users can make code pipelines 
 (see [JenkinsfileCI](JenkinsfileCI)).
+
+## Teams workflow 
+
+* Teams can interact with IAC recipes defined via terraform, to change jenkins agents capacity and configuration
+* Also teams can define pipelines as code on their projects or making pipelines only to interact with 
+the distributed Jenkins environment. 
+
+
+
+
 
 
 
