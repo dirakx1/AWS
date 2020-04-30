@@ -67,6 +67,10 @@ AWS exercises, snippets, howtos and developments.
 * AWS Serverless Application RepositoryDiscover, deploy, and publish serverless applications
 * VMware Cloud on AWSBuild a hybrid cloud without custom hardware
 
+## Queue management
+* Amazon Simple Queue Service (Amazon SQS). For more information about Amazon SQS, see the Amazon SQS documentation.
+
+
 
 ## CI pipeline
 * Aws codecommit: integrated with IAM
