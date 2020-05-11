@@ -1,5 +1,7 @@
- # The below will create a 10.0.0.0/16 VPC, two 10.0.X.0/24 subnets, an internet gateway, 
- # and setup the subnet routing to route external traffic through the internet gateway:
+ # The below will create a 10.0.0.0/16 VPC, two 10.0.X.0/24 subnets, 
+ # an internet gateway, 
+ # and setup the subnet routing to route external traffic 
+ # through the internet gateway:
 
  # This data source is included for ease of sample architecture deployment
  # and can be swapped out as necessary.
