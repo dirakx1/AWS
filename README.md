@@ -19,8 +19,8 @@ AWS exercises, snippets, howtos and developments.
 * Database Migration ServiceMigrate databases with minimal downtime
 
 ## Blockchain
-
-* Managed Blockchain Create and manage scalable blockchain networks
+* Aws offerings: https://aws.amazon.com/es/blockchain/ 
+* Managed Blockchain Create and manage scalable blockchain networks 
 * Quantum Ledger Database (QLDB)Fully managed ledger database
 
 ## Cost management
