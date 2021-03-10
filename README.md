@@ -82,3 +82,6 @@ AWS exercises, snippets, howtos and developments.
 
 ## Mail management 
 * Amazon Simple Email Service (SES) is an email platform that provides an easy, cost-effective way for you to send and receive email using your own email addresses and domains. For more information about Amazon SES, see the Amazon SES documentation.
+
+## References
+* https://aws.amazon.com/es/blogs/mt/run-scripts-stored-in-private-or-public-github-repositories-using-amazon-ec2-systems-manager/
