@@ -56,9 +56,9 @@ AWS exercises, snippets, howtos and developments.
 * Amazon EC2 Virtual servers in the cloud
 * Amazon EC2 Auto Scaling Scale compute capacity to meet demand
 * Amazon Elastic Container Registry Store and retrieve docker images
-* Amazon Elastic Container Service Run and manage docker containers
-* Amazon Elastic Kubernetes ServiceRun managed Kubernetes on AWS
-* Amazon LightsailLaunch and manage virtual private servers
+* Amazon Elastic Container Service Run and manage docker containers (ECS)
+* Amazon Elastic Kubernetes ServiceRun managed Kubernetes on AWS (EKS)
+* Amazon Lightsail Launch and manage virtual private servers
 * AWS BatchRun batch jobs at any scale
 * AWS Elastic Beanstalk Run and manage web apps
 * AWS Fargate Run containers without managing servers or clusters
