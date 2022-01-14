@@ -77,7 +77,7 @@ AWS exercises, snippets, howtos and developments.
 * AWS codebuild
 * AWS code pipeline. 
 
-## python s3 connection
+## Python s3 connection
 * https://realpython.com/python-boto3-aws-s3/
 
 ## Mail management 
