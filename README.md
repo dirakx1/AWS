@@ -2,7 +2,7 @@
 
 AWS exercises, snippets, howtos and developments.
 
-# Aws resources:
+# AWS resources:
 
 ## Database
 
@@ -73,9 +73,9 @@ AWS exercises, snippets, howtos and developments.
 
 
 ## CI pipeline
-* Aws codecommit: integrated with IAM
-* Aws codebuild
-* Aws code pipeline. 
+* AWS codecommit: integrated with IAM
+* AWS codebuild
+* AWS code pipeline. 
 
 ## python s3 connection
 * https://realpython.com/python-boto3-aws-s3/
