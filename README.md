@@ -79,6 +79,7 @@ AWS exercises, snippets, howtos and developments.
 
 ## Python s3 connection
 * https://realpython.com/python-boto3-aws-s3/
+* https://hands-on.cloud/working-with-secrets-manager-in-python-using-boto3/#:~:text=across%20multiple%20accounts.-,How%20do%20I%20access%20AWS%20Secrets%20Manager%20in%20Python%3F,to%20programmatically%20manage%20AWS%20resources.
 
 ## Mail management 
 * Amazon Simple Email Service (SES) is an email platform that provides an easy, cost-effective way for you to send and receive email using your own email addresses and domains. For more information about Amazon SES, see the Amazon SES documentation.
