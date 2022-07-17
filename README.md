@@ -51,7 +51,7 @@ AWS exercises, snippets, howtos and developments.
 * AWS IoT Things GraphEasily connect devices and web services
 * AWS Partner Device CatalogCurated catalog of AWS-compatible IoT hardware
 
-## Compute.
+## Compute
 
 * Amazon EC2 Virtual servers in the cloud
 * Amazon EC2 Auto Scaling Scale compute capacity to meet demand
@@ -72,10 +72,13 @@ AWS exercises, snippets, howtos and developments.
 
 
 
-## CI pipeline
-* AWS codecommit: integrated with IAM
-* AWS codebuild
-* AWS code pipeline. 
+## CI/CD pipelines
+### AWS codecommit: integrated with IAM
+* CodeCommit is a source control service provided by AWS that allows us to host our own repositories on AWS. You can push code to CodeCommit as you push to GitHub.
+### AWS codedeploy
+* CodeDeploy is an AWS deployment service that automates the deployment process to multiple AWS services. CodeDeploy allows you to push your code and it will handle the installation of it on your instances or resources.
+### AWS code pipeline
+* CodePipeline is a continuous delivery service provided by AWS. It helps us to automate the build, test, and deploy phases of our application and can help troubleshoot what went wrong and in what phase.
 
 ## Python s3 connection
 * https://realpython.com/python-boto3-aws-s3/
