@@ -2,7 +2,7 @@
 
 AWS exercises, snippets, howtos and developments.
 
-# AWS resources:
+# AWS resources
 
 ## Database
 
@@ -50,6 +50,7 @@ AWS exercises, snippets, howtos and developments.
 * AWS IoT SiteWiseIoT data collector and interpreter
 * AWS IoT Things GraphEasily connect devices and web services
 * AWS Partner Device CatalogCurated catalog of AWS-compatible IoT hardware
+* More solutions on: https://aws.amazon.com/es/iot/
 
 ## Compute
 
