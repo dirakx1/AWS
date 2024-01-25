@@ -6,7 +6,7 @@ AWS exercises, snippets, howtos and developments.
 
 ## Database
 
-* Aurora: High performance managed relational database
+* Aurora: High performance managed relational database (AWS specific) 
 * Dynamo: DBManaged NoSQL database
 * DocumentDB (with MongoDB compatibility) Fully managed document database
 * ElastiCache In-memory caching system (redis type)
